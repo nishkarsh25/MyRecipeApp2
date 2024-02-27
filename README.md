@@ -15,17 +15,15 @@ MyRecipeApp2 is a simple Android application built using Jetpack Compose and MVV
 ## Screenshots
 
 <!-- Include screenshots or GIFs of your app here to give users a visual representation of what your app looks like. -->
-![Screenshot 1](https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss1.png) 
-&nbsp;&nbsp;
-![Screenshot 2](https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss2.png)
-<!-- -->
-![Screenshot 3](https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss3.png)
-<!-- -->
-![Screenshot 4](https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss4.png)
+<img src="https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss1.png" alt="Screenshot 1" width="300"> &nbsp;  <img src="https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss2.png" alt="Screenshot 2" width="300">
+
+<img src="https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss3.png" alt="Screenshot 3" width="620">
+
+<img src="https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/ss4.png" alt="Screenshot 4" width="620">
 
 ## GIF's
 
-![GIF 1](https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/gif1.gif)
+<img src="https://github.com/nishkarsh25/MyRecipeApp2/blob/main/Screenshots%20and%20gifs/gif1.gif" alt="gif 1" width="300">
 
 
 ## Dependencies
